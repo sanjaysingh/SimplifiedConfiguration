@@ -1,4 +1,0 @@
-E:\Projects\proof-of-concepts\SimplifiedConfigurationApp\SimplifiedConfiguration\bin\Debug\SimplifiedConfiguration.dll
-E:\Projects\proof-of-concepts\SimplifiedConfigurationApp\SimplifiedConfiguration\bin\Debug\SimplifiedConfiguration.pdb
-E:\Projects\proof-of-concepts\SimplifiedConfigurationApp\SimplifiedConfiguration\obj\Debug\SimplifiedConfiguration.dll
-E:\Projects\proof-of-concepts\SimplifiedConfigurationApp\SimplifiedConfiguration\obj\Debug\SimplifiedConfiguration.pdb
