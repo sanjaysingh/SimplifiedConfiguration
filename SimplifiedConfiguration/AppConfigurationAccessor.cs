@@ -14,8 +14,8 @@ namespace SimplifiedConfiguration
     {
         #region Fields and Constants
 
-        private IAppConfigurationProvider configurationProvider;
-        private const string DefaultStringValue = "";
+         private IAppConfigurationProvider configurationProvider;
+         private const string DefaultStringValue = "";
 
         #endregion
 
